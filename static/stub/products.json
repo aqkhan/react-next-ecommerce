@@ -1,0 +1,23 @@
+[
+    {
+        "pId": 1,
+        "title": "Ironman Foam Cell Suspension",
+        "thumb": "https://4wd1.com/pub/media/wysiwyg/Shock-Comparison-im-640.jpg",
+        "description": "Premium shock absorber for superior endurance in all conditions. FOAM CELL TECHNOLOGY - Micro-Cellular closed cell foam insert maximises cooling efficiency by occupying less internal space than gas within a pressurised shock absorber. Greater oil capacity and more surface area maintains lower operating temperatures. 40-45mm TEFLON BANDED PISTON - Precision shim-stack piston specifically valved by Ironman suspension engineers, banded with teflon for smooth long life operation. 65-72mm TWIN TUBE BODY - 50%-100% more oil volume than a gas shock absorber for superior cooling and endurance. Twin tube construction protects internal components from rock damage. 20mm HARD CHROME PISTON ROD - Hardened and polished, volumetrically balanced to piston size. FLEXIBLE RUBBER BUSHES - Offers quieter operation and reduces damaging side loads from shock absorber.",
+        "price": 1300
+    },
+    {
+        "pId": 2,
+        "title": "SUSPENSION KIT - CONSTANT LOAD WITH FOAM CELL SHOCKS TO SUIT LANDCRUISER 80 SERIES",
+        "thumb": "http://www.ironman4x4.com/system/images/W1siZiIsIjIwMTQvMTAvMjAvM3ZvdXNybTd4aF9jb2lsX2NvaWxfa2l0LmpwZyJdLFsicCIsInRodW1iIiwiNjM1eDM2MCJdXQ/coil%20coil%20kit.jpg",
+        "description": "Premium shock absorber for superior endurance in all conditions. FOAM CELL TECHNOLOGY - Micro-Cellular closed cell foam insert maximises cooling efficiency by occupying less internal space than gas within a pressurised shock absorber. Greater oil capacity and more surface area maintains lower operating temperatures. 40-45mm TEFLON BANDED PISTON - Precision shim-stack piston specifically valved by Ironman suspension engineers, banded with teflon for smooth long life operation. 65-72mm TWIN TUBE BODY - 50%-100% more oil volume than a gas shock absorber for superior cooling and endurance. Twin tube construction protects internal components from rock damage. 20mm HARD CHROME PISTON ROD - Hardened and polished, volumetrically balanced to piston size. FLEXIBLE RUBBER BUSHES - Offers quieter operation and reduces damaging side loads from shock absorber.",
+        "price": 1700
+    },
+    {
+        "pId": 3,
+        "title": "ADJUSTABLE STEERING TRACK ROD TO SUIT LANDCRUISER 80 SERIES",
+        "thumb": "http://www.ironman4x4.com/system/images/W1siZiIsIjIwMTkvMDMvMTQvOTBuZ2w1cjN2MV9BZGp1c3RhYmxlX1N0cmVlcmluZ19UcmFja19Sb2RzX0FUUjAwMV8uanBnIl0sWyJwIiwidGh1bWIiLCI2MzV4MzYwIl1d/Adjustable%20Streering%20Track%20Rods%20%28ATR001%29.jpg",
+        "description": "Solid 38mm Competition Spec Drag Links reduce the likelihood of failure due to impact in severe terrain, featuring adjustable length femal rod ends to align and centralise steering. Includes greasable tie rods. (Steering Rod behind axle)",
+        "price": 1500
+    }
+]
