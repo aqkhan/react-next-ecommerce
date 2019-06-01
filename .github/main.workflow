@@ -1,1 +1,1 @@
-workflow "Build and Publish"
+workflow "Build and Publish"{}
